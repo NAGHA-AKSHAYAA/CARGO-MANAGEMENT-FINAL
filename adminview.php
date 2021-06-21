@@ -15,6 +15,8 @@
       <br><br><br>
       <a style="text-decoration:none" class="btn" href="bookingdetails/read.php">BOOKING DETAILS</a>
 			<br><br><br>
+      <a style="text-decoration:none" class="btn" href="Revenue/read.php">REVENUE GENERATED</a>
+      <br><br><br>
 			<a style="text-decoration:none" href="/project/login.php">Log Out</a>
 
 
